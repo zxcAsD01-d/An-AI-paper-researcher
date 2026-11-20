@@ -273,7 +273,7 @@ Main Author: zxcAsD01
 
 This project is provided by zxcAsD01.
 
-Original software that the project rights holders are entitled to license is offered under [PolyForm Noncommercial 1.0.0](LICENSE) from this licensing change. The license text controls permitted purposes, including its organization exceptions. Commercial uses outside those permissions require a separate written agreement; see [commercial licensing](COMMERCIAL.md). Prior grants and third-party rights remain unchanged; see [scope and history](LICENSING.md) and [third-party notices](THIRD_PARTY_NOTICES.md). This is source-available software under a noncommercial license.
+Original software that the project rights holders are entitled to license is offered under the [MIT License](LICENSE). Commercial use is permitted under MIT without a separate paid license. Preserve the copyright and permission notices. See [scope and history](LICENSING.md), [third-party notices](THIRD_PARTY_NOTICES.md) and [commercial use and support](COMMERCIAL.md). Third-party content and prior license grants remain unchanged.
 
 ## Technical Support
 
