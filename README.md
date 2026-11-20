@@ -271,7 +271,9 @@ Main Author: zxcAsD01
 
 ## License
 
-This project is provided by zxcAsD01
+This project is provided by zxcAsD01.
+
+Original software that the project rights holders are entitled to license is offered under [PolyForm Noncommercial 1.0.0](LICENSE) from this licensing change. The license text controls permitted purposes, including its organization exceptions. Commercial uses outside those permissions require a separate written agreement; see [commercial licensing](COMMERCIAL.md). Prior grants and third-party rights remain unchanged; see [scope and history](LICENSING.md) and [third-party notices](THIRD_PARTY_NOTICES.md). This is source-available software under a noncommercial license.
 
 ## Technical Support
 
